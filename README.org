@@ -1,0 +1,6 @@
+#+TITLE: README for Org-Jekyll-Publish
+#+AUTHOR: ickma
+
+* Purpose
+This is based on this post [[http://cute-jumper.github.io/emacs/2013/10/06/orgmode-to-github-pages-with-jekyll][org-mode to Github pages with Jekyll]]
+
